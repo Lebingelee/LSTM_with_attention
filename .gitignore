@@ -1,0 +1,27 @@
+.DS_Store
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.log
+.pytest_cache
+temp/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
